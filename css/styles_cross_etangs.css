@@ -1,0 +1,70 @@
+img.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+    margin-top: auto;
+ }
+
+nav.menu-nav ul li.btn{
+	list-style: none;
+	display: inline-block;
+}
+nav.menu-nav ul li.btn a{
+	color: #4440CB;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 18px;
+	margin: 0px auto;
+	background: #fff
+
+}
+nav.menu-nav ul li.btn:hover a{
+	color: #1813CF;
+	background-color: #4440CB;
+	transition: 0.4s all;
+}
+
+footer{
+	background: #fff;
+}
+
+.styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 2rem;
+    text-align: center;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: #1813CF;
+    background-image: linear-gradient(to top left,
+    rgba(0, 0, 0, .2),
+    rgba(0, 0, 0, .2) 30%,
+    rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.styled:hover {
+    background-color: rgba(255, 0, 0, 1);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+a.année2018{
+	text-decoration: none;
+	margin-left: 150px;
+
+}
+
+h1.Titre{
+	text-align: center;
+	font-size: 25px
+}
+
+body {
+    margin: 0;
+}

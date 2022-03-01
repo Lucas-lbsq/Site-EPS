@@ -1,0 +1,57 @@
+img.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+    margin-top: auto;
+ }
+
+nav.menu-nav ul li.btn{
+	list-style: none;
+	display: inline-block;
+}
+nav.menu-nav ul li.btn a{
+	color: #4440CB;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 18px;
+	margin: 0px auto;
+	background: #fff
+
+}
+nav.menu-nav ul li.btn:hover a{
+	color: #1813CF;
+	background-color: #4440CB;
+	transition: 0.4s all;
+}
+
+
+footer{
+	background: #fff;
+}
+
+p.Text_1{
+	text-align: center;
+	font-size: 35px;
+	background: #120E8B;
+}
+p.Text{
+	font-size: 25px;
+	padding: 0.1px;
+	background: #fff;
+
+}
+ div#content div{
+	display: inline-block;
+	width: 48%;
+
+}
+
+div#content div.leftbox{
+	vertical-align: middle;
+	background: #120E8B
+}
+
+div#content div.rightbox{
+	vertical-align: middle;
+	
+}

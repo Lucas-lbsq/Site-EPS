@@ -1,0 +1,29 @@
+img.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+    margin-top: auto;
+ }
+
+nav.menu-nav ul li.btn{
+	list-style: none;
+	display: inline-block;
+}
+nav.menu-nav ul li.btn a{
+	color: #4440CB;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 18px;
+	margin: 0px auto;
+	background: #fff
+
+}
+nav.menu-nav ul li.btn:hover a{
+	color: #1813CF;
+	background-color: #4440CB;
+	transition: 0.4s all;
+}
+
+footer{
+	background: #fff;
+}

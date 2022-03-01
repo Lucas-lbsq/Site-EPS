@@ -1,0 +1,48 @@
+Index
+img.photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+    margin-top: auto;
+}
+img.compteur{
+	display: block;
+	position: absolute;
+	margin-left: 1200px;	
+
+}
+
+nav.menu-nav ul li.btn{
+	list-style: none;
+	display: inline-block;
+}
+nav.menu-nav ul li.btn a{
+	color: #4440CB;
+	text-decoration: none;
+	padding: 5px;
+	font-size: 18px;
+	margin: 0px auto;
+	background: #fff
+
+}
+nav.menu-nav ul li.btn:hover a{
+	color: #1813CF;
+	background-color: #4440CB;
+	transition: 0.4s all;
+}
+footer{
+	text-align: center;
+}
+
+h1.Welcome{
+	text-align: center;
+}
+
+img.Groupe{
+	margin-left: 5px;
+	width: 500px
+}
+p.Prof{
+	font-size: 20px
+	text-align: left;
+}
